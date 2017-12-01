@@ -1,1 +1,1 @@
-# Kaggle Titatic
+# Kaggle Titanic
